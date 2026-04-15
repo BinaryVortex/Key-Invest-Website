@@ -1,5 +1,7 @@
 # Key Invest Website
 
+![Key Invest Website Screenshot](./Screenshot%202025-12-16%20at%2014.18.13.png)
+
 A professional, modern investment company website built with React, Vite, and Tailwind CSS. This project features a responsive design with high-performance components and smooth animations.
 
 ## 🚀 Features
